@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>삭제</title>
 </head>
 <body>
-
+	삭제처리할 페이지입니다
 </body>
 </html>
